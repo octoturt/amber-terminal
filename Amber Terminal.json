@@ -33,6 +33,7 @@
     "Green Component" : 0.070588238537311554
   },
   "Blend" : 0.050000000000000003,
+  "Show Mark Indicators" : false,
   "Mouse Reporting" : true,
   "Ansi 4 Color" : {
     "Red Component" : 0.24705882370471954,
@@ -52,6 +53,7 @@
     "slogin",
     "telnet"
   ],
+  "Non-ASCII Ligatures" : false,
   "Scrollback Lines" : 1000,
   "Draw Powerline Glyphs" : true,
   "Brighten Bold Text" : true,
@@ -320,11 +322,11 @@
   "Blinking Cursor" : true,
   "Guid" : "A159CB47-AE95-491A-8702-05CBF8245E85",
   "Ansi 8 Color" : {
-    "Red Component" : 0.139312744140625,
+    "Red Component" : 0.1393127441,
     "Color Space" : "sRGB",
     "Blue Component" : 0,
     "Alpha Component" : 1,
-    "Green Component" : 0.080891274371809457
+    "Green Component" : 0.080891273920000006
   },
   "Ansi 10 Color" : {
     "Red Component" : 1,
@@ -352,7 +354,7 @@
     "Green Component" : 0
   },
   "Blur" : false,
-  "Normal Font" : "PTMono-Bold 13",
+  "Normal Font" : "PTMono-Regular 14",
   "Vertical Spacing" : 1,
   "Use Underline Color" : false,
   "Ansi 7 Color" : {
@@ -362,6 +364,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.89019608497619629
   },
+  "Place Prompt at First Column" : false,
   "Command" : "",
   "Terminal Type" : "xterm-256color",
   "Horizontal Spacing" : 1,
@@ -405,7 +408,7 @@
   "Bound Hosts" : [
 
   ],
-  "Non Ascii Font" : "Monaco 12",
+  "Non Ascii Font" : "OpenMojiBlack 12",
   "Ansi 13 Color" : {
     "Red Component" : 0.62352943420410156,
     "Color Space" : "sRGB",
